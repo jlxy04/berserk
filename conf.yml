@@ -1,0 +1,11 @@
+# oss 相关配置
+oss:
+  endpoint: oss-cn-shenzhen.aliyuncs.com
+  accessKeyId: your accessKeyId
+  accessKeySecret: your accessKeySecret
+  bucketName: your bucketName
+  #上传至oss的路径
+  uploadPath: test
+watch:
+  # 要监听的目录
+  path: F:\work\分享
